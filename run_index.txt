@@ -1,0 +1,17 @@
+Reading: ./docs/boi_ebanking_directive.pdf
+  extracted 30,385 characters
+
+Embedding model: gemini-embedding-001 at 1536 dimensions
+
+  Strategy: paragraph
+    54 chunks produced
+    embedded 1/54    embedded 2/54    embedded 3/54    embedded 4/54    embedded 5/54    embedded 6/54    embedded 7/54    embedded 8/54    embedded 9/54    embedded 10/54    embedded 11/54    embedded 12/54    embedded 13/54    embedded 14/54    embedded 15/54    embedded 16/54    embedded 17/54    embedded 18/54    embedded 19/54    embedded 20/54    embedded 21/54    embedded 22/54    embedded 23/54    embedded 24/54    embedded 25/54    embedded 26/54    embedded 27/54    embedded 28/54    embedded 29/54    embedded 30/54    embedded 31/54    embedded 32/54    embedded 33/54    embedded 34/54    embedded 35/54    embedded 36/54    embedded 37/54    embedded 38/54    embedded 39/54    embedded 40/54    embedded 41/54    embedded 42/54    embedded 43/54    embedded 44/54    embedded 45/54    embedded 46/54    embedded 47/54    embedded 48/54    embedded 49/54    embedded 50/54    embedded 51/54    embedded 52/54    embedded 53/54    embedded 54/54    embedded 54/54
+    removed 54 previously indexed chunks
+    stored 54 chunks
+
+Done. 54 chunks indexed from boi_ebanking_directive.pdf.
+
+Current contents of the table:
+  boi_ebanking_directive.pdf               fixed         36 chunks
+  boi_ebanking_directive.pdf               paragraph     54 chunks
+  boi_ebanking_directive.pdf               sentence      45 chunks

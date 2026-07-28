@@ -1,0 +1,68 @@
+Query: "how should banks monitor for fraud in e-banking"
+
+--- strategy: fixed ---
+
+  [1] similarity 0.7214
+      file: boi_ebanking_directive.pdf  |  strategy: fixed  |  chunk #21  |  id 22
+      ats to e-banking that are exposed in Israel and worldwide. Alerts to customers (Sections 48–51) 43. A banking corporation is to make use of anomaly monitoring in order to alert customers to the extent necessary and to take immediate measures such as the suspension of a transaction or of obtaining th ...
+
+  [2] similarity 0.7103
+      file: boi_ebanking_directive.pdf  |  strategy: fixed  |  chunk #20  |  id 21
+      43). In a corporate account, one function will be able to act alone, even if the account holders’ consent is required, after receiving verified approval from an authorized entity at the corporation (Section 44). Chapter E—Protection of customers Monitoring exceptions and high-risk transactions (Sect ...
+
+  [3] similarity 0.7020
+      file: boi_ebanking_directive.pdf  |  strategy: fixed  |  chunk #23  |  id 24
+      echnology (including installing software or components on mobile devices). The training can also be given through a range of digital channels as well as in branches. 47. The banking corporation is required to manage the inherent risk of phishing or any other fraud or scam that is liable to cause cus ...
+
+  [4] similarity 0.6982
+      file: boi_ebanking_directive.pdf  |  strategy: fixed  |  chunk #3  |  id 4
+      ne account, the agreement for providing E-banking services, s igning up for e -banking services remotely , and concluding an agreement remotely. d. Chapter D: Identification and authentication – details the required principles on the issue of identification and authentication. e. Chapter E: Protecti ...
+
+  [5] similarity 0.6964
+      file: boi_ebanking_directive.pdf  |  strategy: fixed  |  chunk #8  |  id 9
+      d and embezzlement risks, legal risks, and reputational risks, are managed appropriately and in accordance with the existing risk-management framework. 14. The board is to review and approve a risk management framework for e -banking to be anchored in a po licy paper. The policy is to include, among ...
+
+--- strategy: sentence ---
+
+  [1] similarity 0.7625
+      file: boi_ebanking_directive.pdf  |  strategy: sentence  |  chunk #25  |  id 62
+      The growth in e-banking activities raises concern of an increase in risks of fraud and embezzlement. As such, banking corporat ions are required to expand and increase the sophistication of the mechanism for monitoring anomalies in customers’ accounts as well as in activities that are not anomalous  ...
+
+  [2] similarity 0.7184
+      file: boi_ebanking_directive.pdf  |  strategy: sentence  |  chunk #26  |  id 63
+      A banking corporation is to make use of anomaly monitoring in order to alert customers to the extent necessary and to take immediate measures such as the suspension of a transaction or of obtaining the customer’s approval for a transaction before it is executed. Likewise, the banking corporation wil ...
+
+  [3] similarity 0.7140
+      file: boi_ebanking_directive.pdf  |  strategy: sentence  |  chunk #4  |  id 41
+      d. Chapter D: Identification and authentication – details the required principles on the issue of identification and authentication. e. Chapter E: Protection of customers – Deals with training customers using ebanking services and the controls implemented by the banking corporation to protect the cu ...
+
+  [4] similarity 0.6993
+      file: boi_ebanking_directive.pdf  |  strategy: sentence  |  chunk #28  |  id 65
+      47. The banking corporation is required to manage the inherent risk of phishing or any other fraud or scam that is liable to cause customers to divulge, either on purpose or accidentally, confidential information such as means of identification and authentication. In exceptional cases where there is ...
+
+  [5] similarity 0.6957
+      file: boi_ebanking_directive.pdf  |  strategy: sentence  |  chunk #11  |  id 48
+      The policy is to include, among other things, principles and parameters for classifying e-banking transactions by risk level, on the basis of which the mandatory means of identification and authentication shall be determined. The policy documen t is to be integrated into the existing policy document ...
+
+--- strategy: paragraph ---
+
+  [1] similarity 0.7523
+      file: boi_ebanking_directive.pdf  |  strategy: paragraph  |  chunk #18  |  id 154
+      inherent in e-banking, with the view that the customer’s alertness is important in minimizing risks.
+
+  [2] similarity 0.7147
+      file: boi_ebanking_directive.pdf  |  strategy: paragraph  |  chunk #28  |  id 164
+      as high -risk, including, but not limited to, the activities classif ied as such in Section 42 of the Directive. 42. In addition, the monitoring mechanism is to be updated in line with the methods of fraud and threats to e-banking that are exposed in Israel and worldwide.
+
+  [3] similarity 0.7082
+      file: boi_ebanking_directive.pdf  |  strategy: paragraph  |  chunk #29  |  id 165
+      Alerts to customers (Sections 48–51) 43. A banking corporation is to make use of anomaly monitoring in order to alert customers to the extent necessary and to take immediate measures such as the suspension of a transaction or of obtaining the customer’s approval for a transaction before it is execut ...
+
+  [4] similarity 0.7042
+      file: boi_ebanking_directive.pdf  |  strategy: paragraph  |  chunk #15  |  id 151
+      13. The Directive details the board’s areas of responsibility, including the responsibility for verifying that the risks embodied in e -banking, including information security risks, fraud and embezzlement risks, legal risks, and reputational risks, are managed appropriately and in accordance with t ...
+
+  [5] similarity 0.7037
+      file: boi_ebanking_directive.pdf  |  strategy: paragraph  |  chunk #26  |  id 162
+      Chapter D—Identification and Authentication Identification and Authentication (Sections 40–44) 35. The chapter deals with identification and authentication of customers in e-banking activities. 36. A banking corporation is to establish means of personal identification and authentication in accordanc ...
+
