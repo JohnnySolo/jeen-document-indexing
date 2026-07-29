@@ -1,3 +1,11 @@
+> **Repository layout.** This repository contains two parts of the Jeen AI Solution
+> home assignment.
+>
+> - **Part 2** — Document Indexing & Retrieval. All files at the repository root.
+>   Documented below.
+> - **Part 3** — Multi-Agent Flow in Langflow. See [`part3/`](part3/), containing the
+>   flow JSON export, an HTTP POST run output, and the demo video.
+
 # Document Indexing & Retrieval
 
 A Python module that ingests a PDF or DOCX file, extracts clean text, splits it
